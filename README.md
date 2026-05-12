@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abduljabbar012" alt="abduljabbar012" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://abduljabbar.nextgensolutionit.com/](https://abduljabbar.nextgensolutionit.com/)
+- 👨‍💻 All of my projects are available at [https://abduljabbar.nextgensolutionit.com/]([https://abduljabbar.nextgensolutionit.com/])(https://abduljabbar012.github.io/Abdul-Jabbar/))
 
 - 📝 I regularly write articles on [https://jabbarsanto.medium.com/](https://jabbarsanto.medium.com/)
 
