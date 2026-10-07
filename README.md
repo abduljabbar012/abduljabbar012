@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Jabbar</h1>
-<h3 align="center">My name is Abdul Jabbar, and I am a Front-End Web Developer and WordPress Developer from Bangladesh. I hold a degree in Computer Science and Technology (CSE) from the Institute of Engineering and Technology.</h3>
+<h3 align="center">My name is Abdul Jabbar, and I am a Front-End Web Developer and WordPress Developer from Bangladesh. I hold a degree in Computer Science and Technology (CSE) from the Institute of Engineering and Technology , BSc in Computrt Science (CSE) from International Standard University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduljabbar012&label=Profile%20views&color=0e75b6&style=flat" alt="abduljabbar012" /> </p>
 
